@@ -1,0 +1,10 @@
+package co.edu.icesi.Model;
+
+import java.io.File;
+
+public class infrastructureDepartamente{
+    private String Billboard_name;
+}
+public infrastructureDepartamente(String Billboard_name) {
+    this.Billboard_name = Billboard_name;
+}
